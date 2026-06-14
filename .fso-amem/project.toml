@@ -1,0 +1,6 @@
+[project]
+name = "pillar-substrate-webgl"
+slug = "pillar-substrate-webgl"
+
+[amem]
+server = "https://amem.flusci.org"
